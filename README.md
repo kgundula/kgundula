@@ -1,7 +1,20 @@
-### Hi there 👋, I'm Khuthadzo 
+### Hi there 👋, I'm Khuthadzo Gundula
+---
 
-[Twitter](https://twitter.com/kgundula) |
-[Linkedin](https://www.linkedin.com/in/kgundula)
+## Android Developer and GDG Pretoria Co-organizer
+
+---
+
+### Languange and Tools:
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+[Twitter](https://twitter.com/kgundula) | [Linkedin](https://www.linkedin.com/in/kgundula)
 
 <!--
 **kgundula/kgundula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
