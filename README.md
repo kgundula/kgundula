@@ -12,6 +12,10 @@
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+##### Some nice looking stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebcuthbertlinden&layout=compact&theme=react)
+
 ---
 
 [Twitter](https://twitter.com/kgundula) | [Linkedin](https://www.linkedin.com/in/kgundula)
